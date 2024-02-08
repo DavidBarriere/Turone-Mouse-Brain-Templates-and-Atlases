@@ -1,6 +1,6 @@
 # The Turone Mouse Brain Template and Atlas
 
-The current document is a short description of the TMBTA resources for the mouse brain MRI data normalization. For a full description of the resources and the methodologies used to create them please consult the main publication (Barriere D.A. et al 2019, https://doi.org/10.1016/j.neuroimage.2021.117776).
+The current document is a short description of the TMBTA resources for the mouse brain MRI data normalization. For a full description of the resources and the methodologies used to create them please consult the main publication (Barriere D.A. et al 2021, https://doi.org/10.1016/j.neuroimage.2021.117776).
 
 
 The Turone Mouse Brain Template and Atlas (TMBTA) resources offer to the preclinical neuroimaging community a complete set of ex vivo template, tissues priors as well as anatomical atlas of the mouse brain. This new set of resources allows both linear and non-linear coregistration of multimodal acquisitions performed on the same animal (functional, anatomical and diffusion), leading to an accurate identification of the brain territories involved in a physiological or pathophysiological process. The TMBTA is a support for the standardization of MRI preclinical research. The TMBTA resources  were developped as part of the ImaCervoRepro project, a collaborative project funded by the regional council of the Centre Val-de-Loire (convention 201500104011, 2015-2018). They provide a unified and standardized framework for the analysis of multimodal mouse brain data, allowing the reporting of results using the coordinate system of the Paxinos-Franklin atlas. 
@@ -22,6 +22,8 @@ Spatial resolution 0.06x0.06x0.06mmm.
   ### Mouse brain atlas
 Anatomical whole-brain atlas composed of 1318 structures, derived from the merge of from the AMBMC brain template (http://www.imaging.org.au) and the Scalable brain mice atlas (https://scalablebrainatlas.incf.org) + List of 1318 labels created in ITKSnap Format
 
+Spatial resolution 0.06x0.06x0.06mmm.
+
       TMBTA_Brain_Atlas.nii
       TMBTA_ItK_Label_File.txt
       TMBTA_ListofStructures.xlsx
@@ -29,6 +31,8 @@ Anatomical whole-brain atlas composed of 1318 structures, derived from the merge
 
   ### Mouse brain meshes
 Brain meshes images suitable for data visualization with common neuroimaging software (gifti and nv format).
+
+Spatial resolution 0.06x0.06x0.06mmm.
 
       TMBTA_BrainMesh.gii
       TMBTA_BrainMesh.nv
