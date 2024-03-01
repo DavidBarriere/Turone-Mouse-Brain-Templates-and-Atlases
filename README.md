@@ -1,5 +1,8 @@
 # The Turone Mouse Brain Template and Atlas
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10730847.svg)](https://doi.org/10.5281/zenodo.10730847)
+
 The current document is a short description of the TMBTA resources for the mouse brain MRI data normalization. For a full description of the resources and the methodologies used to create them please consult the main publication (Barriere D.A. et al 2021, https://doi.org/10.1016/j.neuroimage.2021.117776).
 
 
